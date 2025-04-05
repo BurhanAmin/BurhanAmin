@@ -29,6 +29,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blue?logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.3-black?logo=flask&logoColor=white)
+
 
 
 
