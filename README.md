@@ -1,7 +1,7 @@
 ## Hi there I am Burhanuddin Amin👋
-🔭 I’m currently working on creating a Sentiment Analyser that can also analyse slang and genz terms.
+🔭 I’m currently working on creating a facial recognition using siamese neural network
 
-🌱 I’m currently learning Machine Learning
+🌱 I’m currently learning Generative and Agentic AI and computer vision
 
 ### 🚀 Tech Stack
 
