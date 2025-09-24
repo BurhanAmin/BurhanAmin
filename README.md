@@ -1,5 +1,5 @@
 ## Hi there I am Burhanuddin Amin👋
-🔭 I’m currently working on creating a facial recognition using siamese neural network
+🔭 I’m currently working on creating a AI Fitness Chatbot using Agentic AI
 
 🌱 I’m currently learning Generative and Agentic AI and computer vision
 
