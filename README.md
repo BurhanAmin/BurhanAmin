@@ -1,7 +1,7 @@
 ## Hi there I am Burhanuddin Amin👋
-🔭 I’m currently working on creating a AI Fitness Chatbot using Agentic AI
+🔭 I’m currently working on a couple of projects ( Stay Tuned! )
 
-🌱 I’m currently learning Generative and Agentic AI and computer vision
+🌱 I’m currently learning AI Automation 
 
 ### 🚀 Tech Stack
 
