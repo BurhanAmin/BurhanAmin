@@ -1,7 +1,7 @@
 ## Hi there I am Burhanuddin Amin👋
 🔭 I’m currently working on a couple of projects ( Stay Tuned! )
 
-🌱 I’m currently learning AI Automation 
+ I’m currently learning AI Automation 
 
 ### 🚀 Tech Stack
 
